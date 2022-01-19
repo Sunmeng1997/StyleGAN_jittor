@@ -11,5 +11,6 @@ python train.py
 python generate.py
 
 ## 结果展示
+![Image text](https://github.com/Sunmeng1997/StyleGAN_jittor/blob/main/sample_mixing_0.png)
 
 ## 参考文献
